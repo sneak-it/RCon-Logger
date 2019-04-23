@@ -1,9 +1,3 @@
-/*
-To Do:
-- Log commands via rcon protocol (SMRcon support?)
-- Cvars for logging, enable/disable aspects
-*/
-
 #include <sourcemod>
 
 char g_RConLogFile[PLATFORM_MAX_PATH];
